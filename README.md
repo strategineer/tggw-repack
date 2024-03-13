@@ -11,7 +11,7 @@ I recommend using the ProggySmall.ttf font that I've included in this pack becau
 ## Instructions
 
 1. Install ProggySmall.ttf font
-2. Run TGGW shortcut.
+2. Run the TGGW.cmd file.
 3. Enjoy!
 
 ## Licenses
