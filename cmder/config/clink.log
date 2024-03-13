@@ -1,0 +1,47 @@
+28fc app_context::start_logger  476 ---- 2024/03/13 07:42:26.993 -------------------------------------------------
+28fc app_context::start_logger  479 Host process is 'cmd.exe' (pid 10492)
+28fc app_context::start_logger  483 DLL path is 'C:\dev\cmder\vendor\clink'
+28fc app_context::start_logger  498 Windows version 10.0.22631 (x64)
+28fc app_context::start_logger  500 Clink version 1.6.8.d61056 (x64)
+28fc hook_setter::hook_setter  159 >>> Started hook transaction.
+28fc hook_setter::attach_iat   316 Attempting to hook SetEnvironmentVariableW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6E98 (value is 00007FFFE6C2B1A0).
+28fc hook_setter::attach_iat   316 Attempting to hook SetEnvironmentStringsW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6EA8 (value is 00007FFFE6D0AD70).
+28fc hook_setter::attach_iat   316 Attempting to hook WriteConsoleW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6AF0 (value is 00007FFFE6BEDAD0).
+28fc hook_setter::attach_iat   316 Attempting to hook GetEnvironmentVariableW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6E68 (value is 00007FFFE6BD6960).
+28fc hook_setter::commit       207 <<< Hook transaction committed.
+28fc hook_setter::hook_setter  159 >>> Started hook transaction.
+28fc hook_setter::detach_iat   359 Attempting to unhook 00007FFF7FA6D9C0 from GetEnvironmentVariableW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-processenvironment-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6E68 (value is 00007FFF7FA6D9C0).
+28fc hook_setter::commit       207 <<< Hook transaction committed.
+28fc hook_setter::hook_setter  159 >>> Started hook transaction.
+28fc hook_setter::attach_iat   316 Attempting to hook ReadConsoleW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l1-1-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6AE8 (value is 00007FFFE6C66910).
+28fc hook_setter::commit       207 <<< Hook transaction committed.
+28fc hook_setter::hook_setter  159 >>> Started hook transaction.
+28fc hook_setter::attach_iat   316 Attempting to hook SetConsoleTitleW in IAT for module 00007FF70E590000.
+28fc pe_info::iterate_imports  195 Found import in 'api-ms-win-core-console-l2-2-0.dll'
+28fc find_iat                  124 Found import at 00007FF70E5C6B48 (value is 00007FFFE6C673A0).
+28fc hook_setter::commit       207 <<< Hook transaction committed.
+28fc win_screen_buffer::begin  366 Using native terminal support (auto mode found 'ConEmuHk64.dll').
+28fc reset_handle              144 resetting mismatched stdin handle
+28fc reset_handle              144 resetting mismatched stdout handle
+28fc reset_handle              144 resetting mismatched stderr handle
+28fc reset_handle              144 resetting mismatched stdout handle
+28fc reset_handle              144 resetting mismatched stderr handle
+28fc host_lua::load_scripts    192 Loaded 2 Lua scripts in 23 ms
+28fc ={update.lua}               0 Clink updater: too soon to check for updates (1710329412 vs 1710330147).
+28fc history_db::initialise   1321 master bank ctag: |CTAG_1710328790_78327640_10712_0
+28fc history_db::compact      1599 History:  7 active, 21 deleted
+28fc reset_handle              144 resetting mismatched stdout handle
+28fc reset_handle              144 resetting mismatched stderr handle
+28fc history_db::compact      1599 History:  6 active, 22 deleted

@@ -1,0 +1,117 @@
+The Ground Gives Way v2.6 - Wed Mar 13 04:59:53 2024
+                    
+
+ *********** dungeon ***********
+         .. ......&.......................  .~~..... .  .  .
+          .. ...........................8  ..~~.... .  .  . 
+           ..&...8.........""....&....... ..~~....&.  .  .  
+            .........&.&.."""". .....&..&...~~.....  .  .   
+             ........&..."""""#  ..........~~.....  .  .    
+              ..&........&""".####...&.....~~....&..  "     
+              &............".....#........~~~......  "      
+....~~~~.....&.&.......&...".#............~~~~....&.""...   
+............8..............8.##>.........~~~~~~....."...&...
+..&......8.........&.........88.........~~~~~~...8..........
+  ...&....8...&.........&.................~~......&.........
+  &............................&.8.....................&    
+  ...............&........&..........&........&.............
+&.......&.....8.....&...........8....@......................
+...........".................&.&......&..&........8..&......
+......""""""...&....&.............&................&        
+ &..."".8""""..............&.......&.............&..        
+...""".....""".....&..................&.....&...............
+...."""".."""".......................................8......
+.......................&..................&.................
+
+ *********** info *************
+                                                            
+Current Level: Surface                                      
+Deepest Level: Ancient Cave                                 
+Hp           : 19/20                                        
+Mp           : 0/0                                          
+Ep           : 9/10                                         
+Rep          : 10                                           
+Gold         : 77                                           
+Food         : 2                                            
+Turns        : 21280                                        
+Status       : escaped!                                     
+                                                            
+
+ *********** character *********** 
+                                                            
+Attribute Base  Prm Eqp Tmp Ctx Total Eqp bloodlust <25%>   
+ Max HP     10  +4  +6         19/20  Eqp detect undead     
+ Max MP      5     -15  +5      0/ 0  Eqp martial combo<-2> 
+ Melee      60%+10%             70%   Tmp immunity to confus
+ Block       0%+10%+40%+20%     70%   Tmp infravision       
+ Armour      0%    +35%+20%     55%   Ctx in light          
+ Missile     0%    +30%         30%                         
+ Vision      3  +3      +2       8    Melee Attack:         
+ Noise       7      +3          10    Reach: 1              
+                                      Ins damage <2>        
+ Resists  Prm Eqp Tmp Ctx Total       Tmp Melee -10%        
+ rElec       +50%           50%       Ins silver damage <1> 
+                                                            
+                                      Missile:              
+                                      Range: 5 Ammo: 47     
+                                      Ins damage <1>        
+                                                            
+Thievery: 5%*(9+Vision(8)-Noise(10))=35%                    
+                                                            
+
+backpack
+> silver leaf                                               
+  3 magma stones                                            
+  wine                                                      
+  confusion trap                                            
+  food bag [4/4] <1>                                        
+  rusty pickaxe [2 Ep]                                      
+  ancient looking artifact                                  
+  2 banana peels                                            
+  potion of balance                                         
+  amulet of health                                          
+  scroll of the grave                                       
+  scroll of disenchant                                      
+  rod of icestorm                                           
+  rod of curing                                             
+  rod of restoring                                          
+  heal [2 rep]                                              
+  shield [used]                                             
+  purify [1 rep]                                            
+  protect [used]                                            
+  focus [used]                                              
+                                                            
+in food bag:                                                
+ > 2 ales                                                   
+   5 ice crystals                                           
+   aged wine                                                
+   alien gut                                                
+                                                            
+
+ *********** equipment *********** 
+                                                            
+ head: turtle shell                                         
+ neck: amulet of bloodlust                                  
+ hand: holy mace                                            
+ hand: rusty tower shield                                   
+ body: lightning tunic                                      
+ arms: heavy gauntlets                                      
+ ring: ring of endurance                                    
+ ring:                                                      
+ feet: sandals                                              
+ fire: sling of the eye                                     
+ ammo: 47 rocks                                             
+                                                            
+
+ *********** messages *********** 
+Action cancelled.                                           
+(stairs to underground) Activate with 'a' or from the menu  
+Saving...                                                   
+(stairs to the surface) Activate with 'a' or from the menu  
+You descend the stairs                                      
+You escaped the dungeon!!! Congratulations!                 
+Saving...                                                   
+(stairs to underground) Activate with 'a' or from the menu  
+You ascend the stairs                                       
+                                                            
+
