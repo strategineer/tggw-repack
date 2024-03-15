@@ -4,9 +4,9 @@
 
 TGGW is one of the best roguelikes out there. Setting it up and making it look good can be a little tough though.
 
-So I've pre-configured a portable version of Cmder with sane defaults for make playing TGGW as pain free as possible.
+So I've pre-configured a portable version of Cmder with sane defaults to make playing TGGW as pain free as possible.
 
-I recommend using the ProggySmall.ttf font that I've included in this pack because it looks good but feel free to use any font you want if you want to (Windows Key + Alt + P will bring up the Cmder options). You might need to play around with the font size if you do so though.
+I recommend using the ProggySmall.ttf font that I've included in this pack because it looks good but feel free to use any font you want (Windows Key + Alt + P will bring up the Cmder options). You might need to play around with the font size if you change the font though.
 
 ## Instructions
 
