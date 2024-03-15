@@ -14,6 +14,10 @@ I recommend using the ProggySmall.ttf font that I've included in this pack becau
 2. Run the TGGW.cmd file.
 3. Enjoy!
 
+## Errors
+
+If you get an error message from Cmder when you run the TGGW.cmd file, it probably means that the font size is too large preventing TGGW from booting up properly. To fix this, press Windows Key + Alt + P, go to the Font menu, lower the font size, save your settings then close the window and boot it up again to. Repeat this process until the error goes away!
+
 ## Licenses
 
 Both Cmder and the Proggy font are licensed using the MIT license.
@@ -22,4 +26,4 @@ All rights for The Ground Gives Way are retained by the developer (https://www.t
 
 
 - strategineer
-March 13th, 2024
+March 14th, 2024

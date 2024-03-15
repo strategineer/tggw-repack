@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <key name="Software">
 	<key name="ConEmu">
-		<key name=".Vanilla" modified="2024-03-13 17:48:08" build="230724">
+		<key name=".Vanilla" modified="2024-03-14 22:52:08" build="230724">
 			<value name="ColorTable00" type="dword" data="00362a28"/>
 			<value name="ColorTable01" type="dword" data="00ee0000"/>
 			<value name="ColorTable02" type="dword" data="0000cd00"/>
@@ -101,7 +101,7 @@
 			<value name="FontName" type="string" data="ProggySmallTT"/>
 			<value name="FontName2" type="string" data="Lucida Console"/>
 			<value name="FontAutoSize" type="hex" data="00"/>
-			<value name="FontSize" type="ulong" data="58"/>
+			<value name="FontSize" type="ulong" data="56"/>
 			<value name="FontSizeX" type="ulong" data="0"/>
 			<value name="FontSizeX2" type="ulong" data="0"/>
 			<value name="FontSizeX3" type="ulong" data="0"/>
@@ -127,8 +127,8 @@
 			<value name="ConWnd Width" type="dword" data="00000049"/>
 			<value name="ConWnd Height" type="dword" data="0000001c"/>
 			<value name="Cascaded" type="hex" data="01"/>
-			<value name="ConWnd X" type="long" data="12"/>
-			<value name="ConWnd Y" type="long" data="12"/>
+			<value name="ConWnd X" type="long" data="24"/>
+			<value name="ConWnd Y" type="long" data="24"/>
 			<value name="16bit Height" type="ulong" data="0"/>
 			<value name="AutoSaveSizePos" type="hex" data="01"/>
 			<value name="IntegralSize" type="hex" data="00"/>
@@ -867,7 +867,7 @@
 			</key>
 			<value name="StartCreateDelay" type="ulong" data="100"/>
 			<value name="DefaultTerminalDebugLog" type="hex" data="00"/>
-			<value name="LastMonitor" type="string" data="0,0,2560,1440"/>
+			<value name="LastMonitor" type="string" data="0,0,2560,1344"/>
 			<value name="Restore2ActiveMon" type="hex" data="00"/>
 			<value name="DownShowExOnTopMessage" type="hex" data="00"/>
 			<value name="Update.InetTool" type="hex" data="00"/>
